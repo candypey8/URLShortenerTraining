@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ed2eb91-780d-4cbf-826c-10f8f7d88ea4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/URLShortenerTraining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urls.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/static/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/static/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/static/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/static/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/static/user_files/headshot2headshotCROPPED.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/static/user_files/headshotheadshotCROPPED.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/static/user_files/house2headshotCROPPED.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/templates/page_not_found.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/templates/your_url.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/urlshort.py" afterDir="false" />
-    </list>
+    <list default="true" id="3ed2eb91-780d-4cbf-826c-10f8f7d88ea4" name="Changes" comment="linkedin learning url shortener flask app done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gNDsqRbkFkVXRrpOt9FkUnKJEC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,14 +24,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Peyton\PycharmProjects\URLShortenerTraining\urlshort" />
@@ -81,6 +56,15 @@
       <option name="presentableId" value="Default" />
       <updated>1715529350557</updated>
     </task>
+    <task id="LOCAL-00001" summary="linkedin learning url shortener flask app done">
+      <option name="closed" value="true" />
+      <created>1715609125135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715609125135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="linkedin learning url shortener flask app done" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedin learning url shortener flask app done" />
   </component>
 </project>
