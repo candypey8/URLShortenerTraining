@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ed2eb91-780d-4cbf-826c-10f8f7d88ea4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/URLShortenerTraining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urls.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/static/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/static/jquery-3.3.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/static/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/static/user_files/headshot2headshotCROPPED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/static/user_files/headshotheadshotCROPPED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/static/user_files/house2headshotCROPPED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/templates/page_not_found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/templates/your_url.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlshort/urlshort.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2gNDsqRbkFkVXRrpOt9FkUnKJEC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Peyton\PycharmProjects\URLShortenerTraining\urlshort" />
+      <recent name="C:\Users\Peyton\PycharmProjects\URLShortenerTraining" />
+      <recent name="C:\Users\Peyton\PycharmProjects\URLShortenerTraining\templates" />
+      <recent name="C:\Users\Peyton\PycharmProjects\URLShortenerTraining\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed2eb91-780d-4cbf-826c-10f8f7d88ea4" name="Changes" comment="" />
+      <created>1715529350557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715529350557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
